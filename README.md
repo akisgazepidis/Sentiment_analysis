@@ -5,15 +5,15 @@ the second uses Textblob and Vader(NLTK) libraries in order to conduct a first a
 
 1. Tweeter Features
 2. username 
-user_id
-tweet_id 
-time 
-description 
-location 
-following 
-followers 
-totaltweets 
-retweetcount 
-hashtags
-retweet_hashtags
-tweets 
+3. user_id
+4. tweet_id 
+5. time 
+6. description 
+7. location 
+8. following 
+9. followers 
+10. totaltweets 
+11. retweetcount 
+12. hashtags
+13.retweet_hashtags
+14. tweets 
