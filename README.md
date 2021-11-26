@@ -4,7 +4,7 @@ In this file i created two scripts to achieve my sentiment analysis. The first o
 the second uses Textblob and Vader(NLTK) libraries in order to conduct a first analysis.
 
 1. Tweeter Features
-username 
+2. username 
 user_id
 tweet_id 
 time 
